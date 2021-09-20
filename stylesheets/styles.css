@@ -1,0 +1,277 @@
+/* Blacks */
+.color-black {
+  color: var(--color-black);
+}
+.bg-color-black {
+  background-color: var(--color-black);
+}
+
+/* Whites */
+.color-white {
+  color: var(--color-white);
+}
+.bg-color-white {
+  background-color: var(--color-white);
+}
+
+/* Darks */
+.color-dark0 {
+  color: var(--color-dark0);
+}
+.bg-color-dark0 {
+  background-color: var(--color-dark0);
+}
+
+.color-dark1 {
+  color: var(--color-dark1);
+}
+.bg-color-dark1 {
+  background-color: var(--color-dark1);
+}
+
+.color-dark2 {
+  color: var(--color-dark2);
+}
+.bg-color-dark2 {
+  background-color: var(--color-dark2);
+}
+
+.color-dark3 {
+  color: var(--color-dark3);
+}
+.bg-color-dark3 {
+  background-color: var(--color-dark3);
+}
+
+.color-dark4 {
+  color: var(--color-dark4);
+}
+.bg-color-dark4 {
+  background-color: var(--color-dark4);
+}
+
+.color-dark5 {
+  color: var(--color-dark5);
+}
+.bg-color-dark5 {
+  background-color: var(--color-dark5);
+}
+
+/* Lights */
+.color-light0 {
+  color: var(--color-light0);
+}
+.bg-color-light0 {
+  background-color: var(--color-light0);
+}
+
+.color-light1 {
+  color: var(--color-light1);
+}
+.bg-color-light1 {
+  background-color: var(--color-light1);
+}
+
+.color-light2 {
+  color: var(--color-light2);
+}
+.bg-color-light2 {
+  background-color: var(--color-light2);
+}
+
+.color-light3 {
+  color: var(--color-light3);
+}
+.bg-color-light3 {
+  background-color: var(--color-light3);
+}
+
+.color-light4 {
+  color: var(--color-light4);
+}
+.bg-color-light4 {
+  background-color: var(--color-light4);
+}
+
+.color-light5 {
+  color: var(--color-light5);
+}
+.bg-color-light5 {
+  background-color: var(--color-light5);
+}
+
+/* Grays */
+.color-gray0 {
+  color: var(--color-gray0);
+}
+.bg-color-gray0 {
+  background-color: var(--color-gray0);
+}
+
+.color-gray1 {
+  color: var(--color-gray1);
+}
+.bg-color-gray1 {
+  background-color: var(--color-gray1);
+}
+
+.color-gray2 {
+  color: var(--color-gray2);
+}
+.bg-color-gray2 {
+  background-color: var(--color-gray2);
+}
+
+/* Reds */
+.color-red0 {
+  color: var(--color-red0);
+}
+.bg-color-red0 {
+  background-color: var(--color-red0);
+}
+
+.color-red1 {
+  color: var(--color-red1);
+}
+.bg-color-red1 {
+  background-color: var(--color-red1);
+}
+
+.color-red2 {
+  color: var(--color-red2);
+}
+.bg-color-red2 {
+  background-color: var(--color-red2);
+}
+
+/* Greens */
+.color-green0 {
+  color: var(--color-green0);
+}
+.bg-color-green0 {
+  background-color: var(--color-green0);
+}
+
+.color-green1 {
+  color: var(--color-green1);
+}
+.bg-color-green1 {
+  background-color: var(--color-green1);
+}
+
+.color-green2 {
+  color: var(--color-green2);
+}
+.bg-color-green2 {
+  background-color: var(--color-green2);
+}
+
+/* Yellows */
+.color-yellow0 {
+  color: var(--color-yellow0);
+}
+.bg-color-yellow0 {
+  background-color: var(--color-yellow0);
+}
+
+.color-yellow1 {
+  color: var(--color-yellow1);
+}
+.bg-color-yellow1 {
+  background-color: var(--color-yellow1);
+}
+
+.color-yellow2 {
+  color: var(--color-yellow2);
+}
+.bg-color-yellow2 {
+  background-color: var(--color-yellow2);
+}
+
+/* Blues */
+.color-blue0 {
+  color: var(--color-blue0);
+}
+.bg-color-blue0 {
+  background-color: var(--color-blue0);
+}
+
+.color-blue1 {
+  color: var(--color-blue1);
+}
+.bg-color-blue1 {
+  background-color: var(--color-blue1);
+}
+
+.color-blue2 {
+  color: var(--color-blue2);
+}
+.bg-color-blue2 {
+  background-color: var(--color-blue2);
+}
+
+/* Purples */
+.color-purple0 {
+  color: var(--color-purple0);
+}
+.bg-color-purple0 {
+  background-color: var(--color-purple0);
+}
+
+.color-purple1 {
+  color: var(--color-purple1);
+}
+.bg-color-purple1 {
+  background-color: var(--color-purple1);
+}
+
+.color-purple2 {
+  color: var(--color-purple2);
+}
+.bg-color-purple2 {
+  background-color: var(--color-purple2);
+}
+
+/* Aquas */
+.color-aqua0 {
+  color: var(--color-aqua0);
+}
+.bg-color-aqua0 {
+  background-color: var(--color-aqua0);
+}
+
+.color-aqua1 {
+  color: var(--color-aqua1);
+}
+.bg-color-aqua1 {
+  background-color: var(--color-aqua1);
+}
+
+.color-aqua2 {
+  color: var(--color-purple2);
+}
+.bg-color-aqua2 {
+  background-color: var(--color-aqua2);
+}
+
+/* Oranges */
+.color-orange0 {
+  color: var(--color-orange0);
+}
+.bg-color-orange0 {
+  background-color: var(--color-orange0);
+}
+
+.color-orange1 {
+  color: var(--color-orange1);
+}
+.bg-color-orange1 {
+  background-color: var(--color-orange1);
+}
+
+.color-orange2 {
+  color: var(--color-orange2);
+}
+.bg-color-orange2 {
+  background-color: var(--color-orange2);
+}

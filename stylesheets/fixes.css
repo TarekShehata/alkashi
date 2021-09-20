@@ -1,0 +1,64 @@
+/* Placeholder color */
+input.md-search__input::placeholder {
+  color: var(--md-default-fg-color);
+  opacity: 1;
+}
+input.md-search__input:-ms-input-placeholder {
+  color: var(--md-default-fg-color);
+}
+input.md-search__input::-ms-input-placeholder {
+  color: var(--md-default-fg-color);
+}
+
+/* Selection color */
+::-moz-selection {
+  color: var(--md-default-fg-color);
+  background: var(--md-typeset-mark-color);
+}
+::selection {
+  color: var(--md-default-fg-color);
+  background: var(--md-typeset-mark-color);
+}
+
+/* Table header */
+.md-typeset table:not([class]) th {
+  color: var(--md-default-fg-color) !important;
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+/* Task list */
+.md-typeset
+  .task-list-control
+  [type="checkbox"]:checked
+  + .task-list-indicator::before {
+  background-color: var(--md-primary-fg-color) !important;
+}
+
+/* Make tab active links bolder */
+.md-tabs__link--active {
+  font-weight: 700 !important;
+}
+
+/* Buttons */
+.md-typeset .md-button:hover,
+.md-typeset .md-button:focus {
+  color: var(--md-default-fg-color);
+}
+
+/* Top */
+.md-top,
+.md-top:hover,
+.md-top:focus {
+  color: var(--md-default-fg-color);
+  border: 2px solid var(--md-primary-fg-color);
+}
+
+/* Set different color for headers */
+/* .md-header, .md-tabs, .md-nav--primary .md-nav__title[for="__drawer"] {
+  background-color: #000000;
+} */
+
+/* Uncomment to remove footer */
+/* .md-footer {
+  display: none;
+} */

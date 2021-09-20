@@ -1,0 +1,132 @@
+/* Normal fonts */
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 100;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Thin.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Thin.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 200;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-ExtraLight.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-ExtraLight.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Light.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Light.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Regular.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Regular.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 500;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Medium.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-SemiBold.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-SemiBold.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Bold.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: normal;
+  font-weight: 800;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-ExtraBold.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-ExtraBold.woff2")
+    format("woff2");
+}
+
+/* Italic fonts */
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 100;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-ThinItalic.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-ThinItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 200;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-ExtraLightItalic.ttf")
+    format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-ExtraLightItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 300;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-LightItalic.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-LightItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-Italic.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-Italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 500;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-MediumItalic.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-MediumItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 600;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-SemiBoldItalic.ttf")
+    format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-SemiBoldItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-BoldItalic.ttf") format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-BoldItalic.woff2")
+    format("woff2");
+}
+@font-face {
+  font-family: JBM;
+  font-style: italic;
+  font-weight: 800;
+  src: url("../fonts/JBM/ttf/JetBrainsMono-ExtraBoldItalic.ttf")
+    format("truetype");
+  src: url("../fonts/JBM/webfonts/JetBrainsMono-ExtraBoldItalic.woff2")
+    format("woff2");
+}
+
+/* Set font */
+* {
+  font-family: JBM;
+}

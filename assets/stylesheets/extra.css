@@ -1,0 +1,189 @@
+
+/*Disable selection of text from whole website*/
+*{
+  letter-spacing: 0px !important;
+  -webkit-touch-callout:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+
+@font-face {
+  font-family: h1;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440143/Dubai%20Font/DubaiW23-Bold_a7gptn.ttf);
+}
+@font-face {
+  font-family: h2;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440143/Dubai%20Font/DubaiW23-Bold_a7gptn.ttf);
+}
+@font-face {
+  font-family: h3;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440143/Dubai%20Font/DubaiW23-Bold_a7gptn.ttf);
+}
+@font-face {
+  font-family: h4;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440149/Dubai%20Font/DubaiW23-Medium_yq2fov.ttf);
+}
+@font-face {
+  font-family: href;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440149/Dubai%20Font/DubaiW23-Regular_cbobai.ttf);
+}
+@font-face {
+  font-family: p;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440149/Dubai%20Font/DubaiW23-Regular_cbobai.ttf);
+}
+@font-face {
+  font-family: light;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628440148/Dubai%20Font/DubaiW23-Light_itp8tr.ttf);
+}
+@font-face{
+  font-family: lal;
+  src: url(https://res.cloudinary.com/linguist-page/raw/upload/v1628581980/Dubai%20Font/Lalezar-Regular_wm61eg.ttf)
+}
+
+body {
+  background-color: #070708;
+}
+h1{
+  letter-spacing: 0.1em;
+  color: #fbf1c7 !important;
+  font-weight: bold !important;
+  font-family: h1;
+
+}
+.wikilink{
+  color: #fabd2f !important;
+  text-decoration: underline;
+}
+.md-search__form{
+  border-radius: 20px;
+}
+
+/*Target All elements inside of a class*/
+.md-nav.md-nav--secondary *{
+  border: 0px !important;
+  font-size: 13px !important;
+}
+
+.md-nav__link{
+  padding-right: 10px;
+  border-right: 4px solid #928374 !important;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  background-color: #1d2021;
+
+}
+
+/*Target All Links inside of a class*/
+a.md-nav__link:link{
+  font-weight: normal !important;
+}
+
+.md-nav__list.ul{
+background-color: red;
+
+}
+
+/*Target All links of a specific Language*/
+a:lang(ar){
+  font-weight: 400 !important  ;
+}
+.md-nav__link:hover{
+  border-right: 4px solid #fabd2f !important;
+  color: #282828;
+  background-color: #fabd2f;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 14px;
+  font-family: h3;
+}
+.md-nav__link.md-nav__link--active{
+  border: 0px !important;
+  border-right: 4px solid #fabd2f !important;
+  border-radius: 0px !important;
+  color: #fabd2f;
+  background-color: #1d2021;
+  padding-top: 0.5em;
+  padding-bottom: 0.5rem;
+  font-weight: 600;
+  font-family: h3;
+}
+
+
+
+
+.md-nav__title{
+  border-bottom: 10px solid #a89984;
+  padding-bottom: 0.7rem;
+  display: none;
+}
+.md-content {
+  padding-top: 1.5rem;
+  border-right: 1px solid #1d2021;
+  border-left: 1px solid #1d2021;
+}
+
+
+.md-header {
+  border-bottom: 8px solid #1d2021;
+  background-color: #1d2021;
+}
+
+.md-main__inner.md-grid {
+  margin-top: 0px;
+}
+
+/*Target a class inside of a class*/
+.md-header__topic .md-ellipsis {
+  padding-top: 5px;
+  font-size: 1.2rem;
+}
+
+
+
+
+h2{
+font-family: h2;
+
+}
+
+h3{
+font-family: h3;
+}
+
+h4{
+font-family: h4;
+
+}
+
+a{
+font-family: href;
+text-decoration: none;
+}
+
+p{
+font-family: p;
+font-size: 0.81rem;
+}
+.md-content__button.md-icon{
+  display: none;
+}
+.md-search__form{
+  background-color: #3c3836 !important;
+}
+.tag{
+font-family: p;
+}
+table {
+font-family: p;
+}
+
+code{
+font-family: h3 !important;
+
+}

@@ -1,0 +1,145 @@
+/* Accent colors */
+[data-md-color-accent="gray"] {
+  --md-accent-fg-color: var(--color-gray0);
+  --md-accent-fg-color--transparent: var(--color-gray0-rgba01);
+  --md-accent-bg-color: var(--color-gray0-rgba09);
+  --md-accent-bg-color--light: var(--color-gray0-rgba05);
+}
+[data-md-color-accent="gray1"] {
+  --md-accent-fg-color: var(--color-gray1);
+  --md-accent-fg-color--transparent: var(--color-gray1-rgba01);
+  --md-accent-bg-color: var(--color-gray1-rgba09);
+  --md-accent-bg-color--light: var(--color-gray1-rgba05);
+}
+[data-md-color-accent="gray2"] {
+  --md-accent-fg-color: var(--color-gray2);
+  --md-accent-fg-color--transparent: var(--color-gray2-rgba01);
+  --md-accent-bg-color: var(--color-gray2-rgba09);
+  --md-accent-bg-color--light: var(--color-gray2-rgba05);
+}
+[data-md-color-accent="red"] {
+  --md-accent-fg-color: var(--color-red0);
+  --md-accent-fg-color--transparent: var(--color-red0-rgba01);
+  --md-accent-bg-color: var(--color-red0-rgba09);
+  --md-accent-bg-color--light: var(--color-red0-rgba05);
+}
+[data-md-color-accent="red1"] {
+  --md-accent-fg-color: var(--color-red1);
+  --md-accent-fg-color--transparent: var(--color-red1-rgba01);
+  --md-accent-bg-color: var(--color-red1-rgba09);
+  --md-accent-bg-color--light: var(--color-red1-rgba05);
+}
+[data-md-color-accent="red2"] {
+  --md-accent-fg-color: var(--color-red2);
+  --md-accent-fg-color--transparent: var(--color-red2-rgba01);
+  --md-accent-bg-color: var(--color-red2-rgba09);
+  --md-accent-bg-color--light: var(--color-red2-rgba05);
+}
+[data-md-color-accent="green"] {
+  --md-accent-fg-color: var(--color-green0);
+  --md-accent-fg-color--transparent: var(--color-green0-rgba01);
+  --md-accent-bg-color: var(--color-green0-rgba09);
+  --md-accent-bg-color--light: var(--color-green0-rgba05);
+}
+[data-md-color-accent="green1"] {
+  --md-accent-fg-color: var(--color-green1);
+  --md-accent-fg-color--transparent: var(--color-green1-rgba01);
+  --md-accent-bg-color: var(--color-green1-rgba09);
+  --md-accent-bg-color--light: var(--color-green1-rgba05);
+}
+[data-md-color-accent="green2"] {
+  --md-accent-fg-color: var(--color-green2);
+  --md-accent-fg-color--transparent: var(--color-green2-rgba01);
+  --md-accent-bg-color: var(--color-green2-rgba09);
+  --md-accent-bg-color--light: var(--color-green2-rgba05);
+}
+[data-md-color-accent="yellow"] {
+  --md-accent-fg-color: var(--color-yellow0);
+  --md-accent-fg-color--transparent: var(--color-yellow0-rgba01);
+  --md-accent-bg-color: var(--color-yellow0-rgba09);
+  --md-accent-bg-color--light: var(--color-yellow0-rgba05);
+}
+[data-md-color-accent="yellow1"] {
+  --md-accent-fg-color: var(--color-yellow1);
+  --md-accent-fg-color--transparent: var(--color-yellow1-rgba01);
+  --md-accent-bg-color: var(--color-yellow1-rgba09);
+  --md-accent-bg-color--light: var(--color-yellow1-rgba05);
+}
+[data-md-color-accent="yellow2"] {
+  --md-accent-fg-color: var(--color-yellow2);
+  --md-accent-fg-color--transparent: var(--color-yellow2-rgba01);
+  --md-accent-bg-color: var(--color-yellow2-rgba09);
+  --md-accent-bg-color--light: var(--color-yellow2-rgba05);
+}
+[data-md-color-accent="blue"] {
+  --md-accent-fg-color: var(--color-blue0);
+  --md-accent-fg-color--transparent: var(--color-blue0-rgba01);
+  --md-accent-bg-color: var(--color-blue0-rgba09);
+  --md-accent-bg-color--light: var(--color-blue0-rgba05);
+}
+[data-md-color-accent="blue1"] {
+  --md-accent-fg-color: var(--color-blue1);
+  --md-accent-fg-color--transparent: var(--color-blue1-rgba01);
+  --md-accent-bg-color: var(--color-blue1-rgba09);
+  --md-accent-bg-color--light: var(--color-blue1-rgba05);
+}
+[data-md-color-accent="blue2"] {
+  --md-accent-fg-color: var(--color-blue2);
+  --md-accent-fg-color--transparent: var(--color-blue2-rgba01);
+  --md-accent-bg-color: var(--color-blue2-rgba09);
+  --md-accent-bg-color--light: var(--color-blue2-rgba05);
+}
+[data-md-color-accent="purple"] {
+  --md-accent-fg-color: var(--color-purple0);
+  --md-accent-fg-color--transparent: var(--color-purple0-rgba01);
+  --md-accent-bg-color: var(--color-purple0-rgba09);
+  --md-accent-bg-color--light: var(--color-purple0-rgba05);
+}
+[data-md-color-accent="purple1"] {
+  --md-accent-fg-color: var(--color-purple1);
+  --md-accent-fg-color--transparent: var(--color-purple1-rgba01);
+  --md-accent-bg-color: var(--color-purple1-rgba09);
+  --md-accent-bg-color--light: var(--color-purple1-rgba05);
+}
+[data-md-color-accent="purple2"] {
+  --md-accent-fg-color: var(--color-purple2);
+  --md-accent-fg-color--transparent: var(--color-purple2-rgba01);
+  --md-accent-bg-color: var(--color-purple2-rgba09);
+  --md-accent-bg-color--light: var(--color-purple2-rgba05);
+}
+[data-md-color-accent="aqua"] {
+  --md-accent-fg-color: var(--color-aqua0);
+  --md-accent-fg-color--transparent: var(--color-aqua0-rgba01);
+  --md-accent-bg-color: var(--color-aqua0-rgba09);
+  --md-accent-bg-color--light: var(--color-aqua0-rgba05);
+}
+[data-md-color-accent="aqua1"] {
+  --md-accent-fg-color: var(--color-aqua1);
+  --md-accent-fg-color--transparent: var(--color-aqua1-rgba01);
+  --md-accent-bg-color: var(--color-aqua1-rgba09);
+  --md-accent-bg-color--light: var(--color-aqua1-rgba05);
+}
+[data-md-color-accent="aqua2"] {
+  --md-accent-fg-color: var(--color-aqua2);
+  --md-accent-fg-color--transparent: var(--color-aqua2-rgba01);
+  --md-accent-bg-color: var(--color-aqua2-rgba09);
+  --md-accent-bg-color--light: var(--color-aqua2-rgba05);
+}
+[data-md-color-accent="orange"] {
+  --md-accent-fg-color: var(--color-orange0);
+  --md-accent-fg-color--transparent: var(--color-orange0-rgba01);
+  --md-accent-bg-color: var(--color-orange0-rgba09);
+  --md-accent-bg-color--light: var(--color-orange0-rgba05);
+}
+[data-md-color-accent="orange1"] {
+  --md-accent-fg-color: var(--color-orange1);
+  --md-accent-fg-color--transparent: var(--color-orange1-rgba01);
+  --md-accent-bg-color: var(--color-orange1-rgba09);
+  --md-accent-bg-color--light: var(--color-orange1-rgba05);
+}
+[data-md-color-accent="orange2"] {
+  --md-accent-fg-color: var(--color-orange2);
+  --md-accent-fg-color--transparent: var(--color-orange2-rgba01);
+  --md-accent-bg-color: var(--color-orange2-rgba09);
+  --md-accent-bg-color--light: var(--color-orange2-rgba05);
+}

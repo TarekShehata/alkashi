@@ -1,0 +1,76 @@
+/* Color definitions */
+[data-md-color-scheme="gruvbox"] {
+  /* Default color shades */
+  --md-default-fg-color: var(--color-light0);
+  --md-default-fg-color--light: var(--color-light1);
+  --md-default-fg-color--lighter: var(--color-light2);
+  --md-default-fg-color--lightest: var(--color-dark0-rgba04);
+  --md-default-bg-color: var(--color-black);
+  --md-default-bg-color--light: var(--color-dark0);
+  --md-default-bg-color--lighter: var(--color-dark1);
+  --md-default-bg-color--lightest: var(--color-dark2);
+
+  /* Primary color shades */
+  --md-primary-fg-color: var(--color-blue0);
+  --md-primary-fg-color--light: var(--color-blue0);
+  --md-primary-fg-color--dark: var(--color-blue0);
+  --md-primary-bg-color: var(--color-light1);
+  --md-primary-bg-color--light: var(--color-black);
+
+  /* Accent color shades */
+  --md-accent-fg-color: var(--color-blue0);
+  --md-accent-fg-color--transparent: var(--color-blue0-rgba01);
+  --md-accent-bg-color: var(--color-blue0-rgba09);
+  --md-accent-bg-color--light: var(--color-blue0-rgba05);
+
+  /* Code color shades */
+  --md-code-fg-color: var(--color-light1);
+  --md-code-bg-color: var(--color-dark0-rgba04);
+
+  /* Code highlighting color shades */
+  --md-code-hl-color: var(--color-blue0-rgba01);
+  --md-code-hl-number-color: var(--color-purple2);
+  --md-code-hl-special-color: var(--color-blue1);
+  --md-code-hl-function-color: var(--color-yellow2);
+  --md-code-hl-constant-color: var(--color-orange2);
+  --md-code-hl-keyword-color: var(--color-red1);
+  --md-code-hl-string-color: var(--color-green2);
+  --md-code-hl-name-color: var(--color-light1);
+  --md-code-hl-operator-color: var(--color-red1);
+  --md-code-hl-punctuation-color: var(--color-light1);
+  --md-code-hl-comment-color: var(--color-aqua0);
+  --md-code-hl-generic-color: var(--color-light1);
+  --md-code-hl-variable-color: var(--color-light1);
+
+  /* Typeset color shades */
+  --md-typeset-color: var(--md-default-fg-color);
+
+  /* Typeset `a` color shades */
+  --md-typeset-a-color: var(--md-accent-fg-color);
+
+  /* Typeset `mark` color shades */
+  --md-typeset-mark-color: var(--color-blue0-rgba05);
+
+  /* Typeset `del` and `ins` color shades */
+  --md-typeset-del-color: var(--color-red0);
+  --md-typeset-ins-color: var(--color-green0);
+
+  /* Typeset `kbd` color shades */
+  --md-typeset-kbd-color: var(--color-blue0);
+  --md-typeset-kbd-accent-color: rgba(0, 0, 0, 0);
+  --md-typeset-kbd-border-color: var(--color-blue0-rgba04);
+
+  /* Typeset `table` color shades */
+  --md-typeset-table-color: var(--color-dark0-rgba04);
+
+  /* Admonition color shades */
+  --md-admonition-fg-color: var(--md-default-fg-color);
+  --md-admonition-bg-color: var(--color-dark0-rgba02);
+
+  /* Footer color shades */
+  --md-footer-fg-color: var(--color-light0);
+  --md-footer-fg-color--light: var(--color-light1);
+  --md-footer-fg-color--lighter: var(--color-light2);
+  --md-footer-bg-color: var(--color-black);
+  --md-footer-bg-color--dark: var(--color-black);
+}

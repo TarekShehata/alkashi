@@ -1,0 +1,180 @@
+/* Admonitions */
+/* note, seealso */
+.admonition.note,
+.admonition.seealso {
+  border-color: var(--color-blue0) !important;
+}
+.md-typeset .note > .admonition-title,
+.md-typeset .seealso > .admonition-title {
+  background-color: var(--color-blue0-rgba02) !important;
+}
+.md-typeset .note > .admonition-title::before,
+.md-typeset .seealso > .admonition-title::before {
+  background-color: var(--color-blue0) !important;
+}
+
+/* abstract, summary, tldr */
+.admonition.abstract,
+.admonition.summary,
+.admonition.tldr {
+  border-color: var(--color-blue2) !important;
+}
+.md-typeset .abstract > .admonition-title,
+.md-typeset .summary > .admonition-title,
+.md-typeset .tldr > .admonition-title {
+  background-color: var(--color-blue2-rgba03) !important;
+}
+.md-typeset .abstract > .admonition-title::before,
+.md-typeset .summary > .admonition-title::before,
+.md-typeset .tldr > .admonition-title::before {
+  background-color: var(--color-blue2) !important;
+}
+
+/* info, todo */
+.admonition.info,
+.admonition.todo {
+  border-color: var(--color-blue1) !important;
+}
+.md-typeset .info > .admonition-title,
+.md-typeset .todo > .admonition-title {
+  background-color: var(--color-blue1-rgba03) !important;
+}
+.md-typeset .info > .admonition-title::before,
+.md-typeset .todo > .admonition-title::before {
+  background-color: var(--color-blue1) !important;
+}
+
+/* tip, hint, important */
+.admonition.tip,
+.admonition.hint,
+.admonition.important {
+  border-color: var(--color-aqua2) !important;
+}
+.md-typeset .tip > .admonition-title,
+.md-typeset .hint > .admonition-title,
+.md-typeset .important > .admonition-title {
+  background-color: var(--color-aqua2-rgba03) !important;
+}
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .hint > .admonition-title::before,
+.md-typeset .important > .admonition-title::before {
+  background-color: var(--color-aqua2) !important;
+}
+
+/* success, check, done */
+.admonition.success,
+.admonition.check,
+.admonition.done {
+  border-color: var(--color-aqua0) !important;
+}
+.md-typeset .success > .admonition-title,
+.md-typeset .check > .admonition-title,
+.md-typeset .done > .admonition-title {
+  background-color: var(--color-aqua0-rgba03) !important;
+}
+.md-typeset .success > .admonition-title::before,
+.md-typeset .check > .admonition-title::before,
+.md-typeset .done > .admonition-title::before {
+  background-color: var(--color-aqua0) !important;
+}
+
+/* question, help, faq */
+.admonition.question,
+.admonition.help,
+.admonition.faq {
+  border-color: var(--color-green1) !important;
+}
+.md-typeset .question > .admonition-title,
+.md-typeset .help > .admonition-title,
+.md-typeset .faq > .admonition-title {
+  background-color: var(--color-green1-rgba02) !important;
+}
+.md-typeset .question > .admonition-title::before,
+.md-typeset .help > .admonition-title::before,
+.md-typeset .faq > .admonition-title::before {
+  background-color: var(--color-green1) !important;
+}
+
+/* warning, caution, attention */
+.admonition.warning,
+.admonition.caution,
+.admonition.attention {
+  border-color: var(--color-yellow2) !important;
+}
+.md-typeset .warning > .admonition-title,
+.md-typeset .caution > .admonition-title,
+.md-typeset .attention > .admonition-title {
+  background-color: var(--color-yellow2-rgba02) !important;
+}
+.md-typeset .warning > .admonition-title::before,
+.md-typeset .caution > .admonition-title::before,
+.md-typeset .attention > .admonition-title::before {
+  background-color: var(--color-yellow2) !important;
+}
+
+/* failure, fail, missing */
+.admonition.failure,
+.admonition.fail,
+.admonition.missing {
+  border-color: var(--color-red2) !important;
+}
+.md-typeset .failure > .admonition-title,
+.md-typeset .fail > .admonition-title,
+.md-typeset .missing > .admonition-title {
+  background-color: var(--color-red2-rgba02) !important;
+}
+.md-typeset .failure > .admonition-title::before,
+.md-typeset .fail > .admonition-title::before,
+.md-typeset .missing > .admonition-title::before {
+  background-color: var(--color-red2) !important;
+}
+
+/* danger, error */
+.admonition.danger,
+.admonition.error {
+  border-color: var(--color-red0) !important;
+}
+.md-typeset .danger > .admonition-title,
+.md-typeset .error > .admonition-title {
+  background-color: var(--color-red0-rgba02) !important;
+}
+.md-typeset .danger > .admonition-title::before,
+.md-typeset .error > .admonition-title::before {
+  background-color: var(--color-red0) !important;
+}
+
+/* bug */
+.admonition.bug {
+  border-color: var(--color-orange1) !important;
+}
+.md-typeset .bug > .admonition-title {
+  background-color: var(--color-orange1-rgba02) !important;
+}
+.md-typeset .bug > .admonition-title::before {
+  background-color: var(--color-orange1) !important;
+}
+
+/* example */
+.admonition.example {
+  border-color: var(--color-purple0) !important;
+}
+.md-typeset .example > .admonition-title {
+  background-color: var(--color-purple0-rgba02) !important;
+}
+.md-typeset .example > .admonition-title::before {
+  background-color: var(--color-purple0) !important;
+}
+
+/* quote, cite */
+.admonition.quote,
+.admonition.cite {
+  border-color: var(--color-dark4) !important;
+}
+.md-typeset .quote > .admonition-title,
+.md-typeset .cite > .admonition-title {
+  background-color: var(--color-dark4-rgba02) !important;
+}
+.md-typeset .quote > .admonition-title::before,
+.md-typeset .cite > .admonition-title::before {
+  background-color: var(--color-dark4) !important;
+}
