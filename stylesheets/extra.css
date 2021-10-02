@@ -78,23 +78,20 @@ h1{
 .md-nav__link{
   padding-right: 10px;
   padding-left: 10px;
-
   padding-top: 5px;
   padding-bottom: 5px;
   font-size: 14px;
   background-color: #1d2021;
-
 }
 
-/*Target All Links inside of a class*/
+/*Target All Links inside of a class
 a.md-nav__link:link{
   font-weight: normal !important;
 }
+*/
 
-.md-nav__list.ul{
-background-color: red;
 
-}
+
 
 /*Target All links of a specific Language*/
 a:lang(ar){
@@ -108,27 +105,27 @@ a:lang(ar){
   padding-top: 5px;
   padding-bottom: 5px;
   font-size: 14px;
-  font-family: h3;
-}
-.md-nav__link.md-nav__link--active{
-  border: 0px !important;
-
-  border-radius: 0px !important;
-  color: #282828;
-  background-color: #fabd2f;
-  padding-top: 0.5em;
-  padding-bottom: 0.5rem;
-  font-weight: 600;
-  font-family: h3;
 }
 
+@media screen and (max-width: 76.1875em)
+.md-nav--primary .md-nav__title[for=__drawer]{
+padding-top: 0px;
+}
+
+@media screen and (max-width: 59.9375em)
+.md-nav--primary .md-nav__item--active>.md-nav__link{
+  color: #ebdbb2 !important;
+  margin-bottom: 3px;
+}
 
 
-
-.md-nav__title{
-  border-bottom: 10px solid #a89984;
-  padding-bottom: 0.7rem;
-  display: none;
+@media screen and (max-width: 76.1875em)
+.md-nav--primary .md-nav__item--active>.md-nav__link{
+  color: #ebdbb2 !important;
+  margin-bottom: 3px;
+}
+.md-nav--primary .md-nav__title .md-logo {
+display: none;
 }
 .md-content {
   padding-top: 1.5rem;
