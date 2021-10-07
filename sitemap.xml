@@ -2,112 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.alkashi.github.io/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Fade/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Fill/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Move/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Restore/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Scale/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Show_Creation/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Swap/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Text/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Animation/Transform/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Arc/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Axes/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Circle/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Dot/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Grid/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Line/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Polygon/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Square/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Basic%20Shapes/Triangle/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Rendering/export/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.alkashi.github.io/Math/Text/LaTex/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Text/Text%20Customization/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://www.alkashi.github.io/Math/Text/TextAnimation/</loc>
-         <lastmod>2021-10-06</lastmod>
+         <lastmod>2021-10-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.alkashi.github.io/Math/Workshops/1/</loc>
+         <lastmod>2021-10-07</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
